@@ -1,0 +1,10 @@
+body {
+  background-color: bisque;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.forest {
+  height: 350px;
+  width: 400px;
+  border-radius: 30px;
+}
